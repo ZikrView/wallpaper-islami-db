@@ -1,1 +1,19 @@
 
+{
+  "kaligrafi": [
+    "https://raw.githubusercontent.com/ZikrView/wallpaper-islami-db/main/kaligrafi/kaligrafi01.jpg",
+    "https://raw.githubusercontent.com/ZikrView/wallpaper-islami-db/main/kaligrafi/kaligrafi02.jpg"
+  ],
+  "ayat-pendek": [
+    "https://raw.githubusercontent.com/ZikrView/wallpaper-islami-db/main/ayat-pendek/ayat01.jpg"
+  ],
+  "masjid-aesthetic": [
+    "https://raw.githubusercontent.com/ZikrView/wallpaper-islami-db/main/masjid-aesthetic/masjid01.jpg"
+  ],
+  "quotes-islami": [
+    "https://raw.githubusercontent.com/ZikrView/wallpaper-islami-db/main/quotes-islami/quotes01.jpg"
+  ],
+  "muslim-aesthetic": [
+    "https://raw.githubusercontent.com/ZikrView/wallpaper-islami-db/main/muslim-aesthetic/muslim01.jpg"
+  ]
+}
